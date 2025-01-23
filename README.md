@@ -2,12 +2,11 @@
 
 ## 👨‍💻 Used Stack
 
-1. NextJs
+1. Html/css/scss
 2. Reactjs
 3. TypeScript
 4. Prettier
 5. EsLint
-6. css/scss
 
 ## 👶 Getting Started
 
