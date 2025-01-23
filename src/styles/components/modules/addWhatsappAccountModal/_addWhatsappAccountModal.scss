@@ -1,0 +1,33 @@
+.add-store-to-whatsapp-modal-wrap {
+  .modal-content-wrap .modal-content {
+    padding: 10px 0 50px;
+
+    .add-more-btn-wrap {
+      width: 100%;
+      float: left;
+    }
+  }
+
+  .element-group-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+
+    .element-group {
+      width: 48%;
+    }
+  }
+
+  .switch-wrap {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    .label {
+      font-size: 14px;
+      width: auto;
+      padding-left: 10px;
+    }
+  }
+}
